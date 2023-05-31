@@ -10,8 +10,8 @@ Python script developed to help us faster change to the new version of resources
 4. Set the files that you want to exclude from changes
 
 ### Executing program
-1. Navigate to the location of the script: 
-cd C:\dev\GIT\IPTools\versioncange
+1. Navigate to the location of the script exmpl: 
+cd C:\dev\GIT\Tools\versionchange
 
 2. run the configRun.py script in windows:
 python configRun.py
