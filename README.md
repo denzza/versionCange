@@ -26,7 +26,7 @@ python configRun.py
 ## Authors
 
 Denis Velagic
-denis.velagic@apotek1.no
+velagic.denis@gmail.com
 
 ## Version History
 
